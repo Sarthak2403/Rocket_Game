@@ -45,11 +45,11 @@ Spacecrafts can:
 ## Running the Game
 Run the script using Python:
 ```bash
-python gravitational_slingshot.py
+python main.py
 ```
 
 ## Files
-- `gravitational_slingshot.py`: The main game script.
+- `main.py`: The main game script.
 - `background.jpg`: Background image for the game.
 - `jupiter.png`: Image of the planet used in the simulation.
 
@@ -87,8 +87,6 @@ python gravitational_slingshot.py
 ## Acknowledgments
 This project was created to visualize the concept of gravitational slingshot effects in a simple and interactive manner using Python and Pygame.
 
-## License
-This project is open-source and available under the MIT License.
 
 ## Outputs:-
 
