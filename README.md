@@ -30,7 +30,7 @@ Spacecrafts can:
 - **ESC / Close Button:** Exit the game.
 
 ## Requirements
-- Python 3.x
+- Python 
 - Pygame library
 
 ## Installation
