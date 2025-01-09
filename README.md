@@ -34,7 +34,7 @@ Spacecrafts can:
 - Pygame library
 
 ## Installation
-1. Install Python 3.x from [python.org](https://www.python.org/).
+1. Install Python from [python.org](https://www.python.org/).
 2. Install Pygame using pip:
    ```bash
    pip install pygame
